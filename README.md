@@ -1,23 +1,27 @@
-## Data Scraper from multiple websites
+## Data/Scraper
+
+Data Scraper from multiple websites
+
 ```sh
 cd Data/scraper
 ```
-## /Strategies
-1. TWSE_futures.ipynb
 
-TWSE futures scraper
-2. Turbulence.ipynb
+# /Strategies
 
-Monitor for portfolio turbulence(risk)
-3. ARMA.ipynb
+1. **[TWSE_futures.ipynb](./TWSE_futures.ipynb)**
+   - A scraper for Taiwan Stock Exchange (TWSE) futures data.
 
-Time Series(Arima) Factor
-4. GARCH.ipynb
+2. **[Turbulence.ipynb](./Turbulence.ipynb)**
+   - Monitors portfolio turbulence to assess risk levels.
 
-Time Series(Garch) Factor
-5. FFT.ipynb
+3. **[ARMA.ipynb](./ARMA.ipynb)**
+   - Implements ARIMA (AutoRegressive Integrated Moving Average) for time series analysis.
 
-Fast Fourier Series implementation on individuals
-6. mean_variance.ipynb
+4. **[GARCH.ipynb](./GARCH.ipynb)**
+   - Utilizes GARCH (Generalized Autoregressive Conditional Heteroskedasticity) for time series volatility modeling.
 
-Intraday mean variance for ind stock and index.
+5. **[FFT.ipynb](./FFT.ipynb)**
+   - Applies Fast Fourier Transform (FFT) to analyze individual stock data.
+
+6. **[mean_variance.ipynb](./mean_variance.ipynb)**
+   - Intraday mean reversion strategy for individual stocks and indices.
