@@ -24,3 +24,6 @@ cd Data/scraper
 
 6. **[mean_variance.ipynb](Strategies/mean_variance.ipynb)**
    - Intraday mean reversion strategy for individual stocks and indices.
+
+# IB
+Focusing on implementation on real trades
