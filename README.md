@@ -8,7 +8,7 @@ cd Data/scraper
 
 # /Strategies
 
-1. **[TWSE_futures.ipynb](./Strategies/TWSE_futures.ipynb)**
+1. **[TWSE_futures.ipynb](Strategies/TWSE_futures.ipynb)**
    - A scraper for Taiwan Stock Exchange (TWSE) futures data.
 
 2. **[Turbulence.ipynb](./Strategies/Turbulence.ipynb)**
