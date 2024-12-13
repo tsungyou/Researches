@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+requests
+psycopg2-binary
+bs4
+tqdm
