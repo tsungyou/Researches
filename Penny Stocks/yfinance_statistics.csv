@@ -1,154 +1,283 @@
 Date,Quote,Statistic,Value
-2024-12-13,AAPL,Fiscal Year Ends,9/28/2024
-2024-12-13,AAPL,Most Recent Quarter  (mrq),9/28/2024
-2024-12-13,AAPL,Profit Margin,23.97%
-2024-12-13,AAPL,Operating Margin  (ttm),31.17%
-2024-12-13,AAPL,Return on Assets  (ttm),21.46%
-2024-12-13,AAPL,Return on Equity  (ttm),157.41%
-2024-12-13,AAPL,Revenue  (ttm),391.03B
-2024-12-13,AAPL,Revenue Per Share  (ttm),25.49
-2024-12-13,AAPL,Quarterly Revenue Growth  (yoy),6.10%
-2024-12-13,AAPL,Gross Profit  (ttm),--
-2024-12-13,AAPL,EBITDA,134.66B
-2024-12-13,AAPL,Net Income Avi to Common  (ttm),93.74B
-2024-12-13,AAPL,Diluted EPS  (ttm),6.09
-2024-12-13,AAPL,Quarterly Earnings Growth  (yoy),-35.80%
-2024-12-13,AAPL,Total Cash  (mrq),65.17B
-2024-12-13,AAPL,Total Cash Per Share  (mrq),4.31
-2024-12-13,AAPL,Total Debt  (mrq),119.06B
-2024-12-13,AAPL,Total Debt/Equity  (mrq),209.06%
-2024-12-13,AAPL,Current Ratio  (mrq),0.87
-2024-12-13,AAPL,Book Value Per Share  (mrq),3.77
-2024-12-13,AAPL,Operating Cash Flow  (ttm),118.25B
-2024-12-13,AAPL,Levered Free Cash Flow  (ttm),110.85B
-2024-12-13,AAPL,Beta (5Y Monthly),1.24
-2024-12-13,AAPL,52 Week Range3,24.42%
-2024-12-13,AAPL,S&P 500 52-Week Change3,28.91%
-2024-12-13,AAPL,52 Week High3,250.80
-2024-12-13,AAPL,52 Week Low3,164.08
-2024-12-13,AAPL,50-Day Moving Average3,231.47
-2024-12-13,AAPL,200-Day Moving Average3,208.28
-2024-12-13,AAPL,Avg Vol (3 month)3,47.77M
-2024-12-13,AAPL,Avg Vol (10 day)3,39.7M
-2024-12-13,AAPL,Shares Outstanding5,15.12B
-2024-12-13,AAPL,Implied Shares Outstanding6,15.33B
-2024-12-13,AAPL,Float8,15.09B
-2024-12-13,AAPL,% Held by Insiders1,2.06%
-2024-12-13,AAPL,% Held by Institutions1,61.94%
-2024-12-13,AAPL,Shares Short (11/29/2024)4,154.1M
-2024-12-13,AAPL,Short Ratio (11/29/2024)4,3.41
-2024-12-13,AAPL,Short % of Float (11/29/2024)4,1.02%
-2024-12-13,AAPL,Short % of Shares Outstanding (11/29/2024)4,1.02%
-2024-12-13,AAPL,Shares Short (prior month 10/31/2024)4,133.04M
-2024-12-13,AAPL,Forward Annual Dividend Rate4,1
-2024-12-13,AAPL,Forward Annual Dividend Yield4,0.41%
-2024-12-13,AAPL,Trailing Annual Dividend Rate3,0.98
-2024-12-13,AAPL,Trailing Annual Dividend Yield3,0.40%
-2024-12-13,AAPL,5 Year Average Dividend Yield4,0.62
-2024-12-13,AAPL,Payout Ratio4,16.12%
-2024-12-13,AAPL,Dividend Date3,11/14/2024
-2024-12-13,AAPL,Ex-Dividend Date4,11/8/2024
-2024-12-13,AAPL,Last Split Factor2,4:1
-2024-12-13,AAPL,Last Split Date3,8/31/2020
-2024-12-13,GOOG,Fiscal Year Ends,12/31/2023
-2024-12-13,GOOG,Most Recent Quarter  (mrq),9/30/2024
-2024-12-13,GOOG,Profit Margin,27.74%
-2024-12-13,GOOG,Operating Margin  (ttm),32.31%
-2024-12-13,GOOG,Return on Assets  (ttm),16.48%
-2024-12-13,GOOG,Return on Equity  (ttm),32.10%
-2024-12-13,GOOG,Revenue  (ttm),339.86B
-2024-12-13,GOOG,Revenue Per Share  (ttm),27.44
-2024-12-13,GOOG,Quarterly Revenue Growth  (yoy),15.10%
-2024-12-13,GOOG,Gross Profit  (ttm),--
-2024-12-13,GOOG,EBITDA,123.47B
-2024-12-13,GOOG,Net Income Avi to Common  (ttm),94.27B
-2024-12-13,GOOG,Diluted EPS  (ttm),7.53
-2024-12-13,GOOG,Quarterly Earnings Growth  (yoy),33.60%
-2024-12-13,GOOG,Total Cash  (mrq),93.23B
-2024-12-13,GOOG,Total Cash Per Share  (mrq),7.62
-2024-12-13,GOOG,Total Debt  (mrq),29.29B
-2024-12-13,GOOG,Total Debt/Equity  (mrq),9.32%
-2024-12-13,GOOG,Current Ratio  (mrq),1.95
-2024-12-13,GOOG,Book Value Per Share  (mrq),25.61
-2024-12-13,GOOG,Operating Cash Flow  (ttm),105.1B
-2024-12-13,GOOG,Levered Free Cash Flow  (ttm),41.1B
-2024-12-13,GOOG,Beta (5Y Monthly),1.03
-2024-12-13,GOOG,52 Week Range3,47.68%
-2024-12-13,GOOG,S&P 500 52-Week Change3,28.91%
-2024-12-13,GOOG,52 Week High3,196.89
-2024-12-13,GOOG,52 Week Low3,131.06
-2024-12-13,GOOG,50-Day Moving Average3,172.13
-2024-12-13,GOOG,200-Day Moving Average3,167.35
-2024-12-13,GOOG,Avg Vol (3 month)3,18.03M
-2024-12-13,GOOG,Avg Vol (10 day)3,19.74M
-2024-12-13,GOOG,Shares Outstanding5,5.53B
-2024-12-13,GOOG,Implied Shares Outstanding6,12.3B
-2024-12-13,GOOG,Float8,10.92B
-2024-12-13,GOOG,% Held by Insiders1,0.02%
-2024-12-13,GOOG,% Held by Institutions1,61.46%
-2024-12-13,GOOG,Shares Short (11/29/2024)4,41.66M
-2024-12-13,GOOG,Short Ratio (11/29/2024)4,2.03
-2024-12-13,GOOG,Short % of Float (11/29/2024)4,--
-2024-12-13,GOOG,Short % of Shares Outstanding (11/29/2024)4,0.34%
-2024-12-13,GOOG,Shares Short (prior month 10/31/2024)4,40.44M
-2024-12-13,GOOG,Forward Annual Dividend Rate4,0.8
-2024-12-13,GOOG,Forward Annual Dividend Yield4,0.41%
-2024-12-13,GOOG,Trailing Annual Dividend Rate3,0.40
-2024-12-13,GOOG,Trailing Annual Dividend Yield3,0.20%
-2024-12-13,GOOG,5 Year Average Dividend Yield4,--
-2024-12-13,GOOG,Payout Ratio4,5.31%
-2024-12-13,GOOG,Dividend Date3,12/16/2024
-2024-12-13,GOOG,Ex-Dividend Date4,12/9/2024
-2024-12-13,GOOG,Last Split Factor2,20:1
-2024-12-13,GOOG,Last Split Date3,7/18/2022
-2024-12-13,MSFT,Fiscal Year Ends,6/30/2024
-2024-12-13,MSFT,Most Recent Quarter  (mrq),9/30/2024
-2024-12-13,MSFT,Profit Margin,35.61%
-2024-12-13,MSFT,Operating Margin  (ttm),46.58%
-2024-12-13,MSFT,Return on Assets  (ttm),14.59%
-2024-12-13,MSFT,Return on Equity  (ttm),35.60%
-2024-12-13,MSFT,Revenue  (ttm),254.19B
-2024-12-13,MSFT,Revenue Per Share  (ttm),34.20
-2024-12-13,MSFT,Quarterly Revenue Growth  (yoy),16.00%
-2024-12-13,MSFT,Gross Profit  (ttm),--
-2024-12-13,MSFT,EBITDA,136.55B
-2024-12-13,MSFT,Net Income Avi to Common  (ttm),90.51B
-2024-12-13,MSFT,Diluted EPS  (ttm),12.12
-2024-12-13,MSFT,Quarterly Earnings Growth  (yoy),10.70%
-2024-12-13,MSFT,Total Cash  (mrq),78.43B
-2024-12-13,MSFT,Total Cash Per Share  (mrq),10.55
-2024-12-13,MSFT,Total Debt  (mrq),96.84B
-2024-12-13,MSFT,Total Debt/Equity  (mrq),33.66%
-2024-12-13,MSFT,Current Ratio  (mrq),1.30
-2024-12-13,MSFT,Book Value Per Share  (mrq),38.69
-2024-12-13,MSFT,Operating Cash Flow  (ttm),122.14B
-2024-12-13,MSFT,Levered Free Cash Flow  (ttm),61.28B
-2024-12-13,MSFT,Beta (5Y Monthly),0.90
-2024-12-13,MSFT,52 Week Range3,22.70%
-2024-12-13,MSFT,S&P 500 52-Week Change3,28.91%
-2024-12-13,MSFT,52 Week High3,468.35
-2024-12-13,MSFT,52 Week Low3,364.13
-2024-12-13,MSFT,50-Day Moving Average3,422.73
-2024-12-13,MSFT,200-Day Moving Average3,423.39
-2024-12-13,MSFT,Avg Vol (3 month)3,20.33M
-2024-12-13,MSFT,Avg Vol (10 day)3,19.64M
-2024-12-13,MSFT,Shares Outstanding5,7.43B
-2024-12-13,MSFT,Implied Shares Outstanding6,7.48B
-2024-12-13,MSFT,Float8,7.42B
-2024-12-13,MSFT,% Held by Insiders1,0.06%
-2024-12-13,MSFT,% Held by Institutions1,73.54%
-2024-12-13,MSFT,Shares Short (11/29/2024)4,63.09M
-2024-12-13,MSFT,Short Ratio (11/29/2024)4,2.67
-2024-12-13,MSFT,Short % of Float (11/29/2024)4,0.85%
-2024-12-13,MSFT,Short % of Shares Outstanding (11/29/2024)4,0.85%
-2024-12-13,MSFT,Shares Short (prior month 10/31/2024)4,62.52M
-2024-12-13,MSFT,Forward Annual Dividend Rate4,3.32
-2024-12-13,MSFT,Forward Annual Dividend Yield4,0.74%
-2024-12-13,MSFT,Trailing Annual Dividend Rate3,3.08
-2024-12-13,MSFT,Trailing Annual Dividend Yield3,0.69%
-2024-12-13,MSFT,5 Year Average Dividend Yield4,0.87
-2024-12-13,MSFT,Payout Ratio4,24.77%
-2024-12-13,MSFT,Dividend Date3,3/13/2025
-2024-12-13,MSFT,Ex-Dividend Date4,2/20/2025
-2024-12-13,MSFT,Last Split Factor2,2:1
-2024-12-13,MSFT,Last Split Date3,2/18/2003
+2024-12-16,UBXG,Market Cap,10.84M
+2024-12-16,UBXG,Enterprise Value,6.72M
+2024-12-16,UBXG,Trailing P/E,--
+2024-12-16,UBXG,Forward P/E,--
+2024-12-16,UBXG,PEG Ratio (5yr expected),--
+2024-12-16,UBXG,Price/Sales,0.10
+2024-12-16,UBXG,Price/Book,0.78
+2024-12-16,UBXG,Enterprise Value/Revenue,0.13
+2024-12-16,UBXG,Enterprise Value/EBITDA,--
+2024-12-16,UBXG,Fiscal Year Ends,6/30/2024
+2024-12-16,UBXG,Most Recent Quarter  (mrq),6/30/2024
+2024-12-16,UBXG,Profit Margin,-1.45%
+2024-12-16,UBXG,Operating Margin  (ttm),-2.89%
+2024-12-16,UBXG,Return on Assets  (ttm),-5.04%
+2024-12-16,UBXG,Return on Equity  (ttm),-10.02%
+2024-12-16,UBXG,Revenue  (ttm),51.6M
+2024-12-16,UBXG,Revenue Per Share  (ttm),2.04
+2024-12-16,UBXG,Quarterly Revenue Growth  (yoy),-41.00%
+2024-12-16,UBXG,Gross Profit  (ttm),--
+2024-12-16,UBXG,EBITDA,-865.6k
+2024-12-16,UBXG,Net Income Avi to Common  (ttm),-748.54k
+2024-12-16,UBXG,Diluted EPS  (ttm),-0.4800
+2024-12-16,UBXG,Quarterly Earnings Growth  (yoy),--
+2024-12-16,UBXG,Total Cash  (mrq),4.83M
+2024-12-16,UBXG,Total Cash Per Share  (mrq),0.16
+2024-12-16,UBXG,Total Debt  (mrq),716.53k
+2024-12-16,UBXG,Total Debt/Equity  (mrq),5.16%
+2024-12-16,UBXG,Current Ratio  (mrq),5.75
+2024-12-16,UBXG,Book Value Per Share  (mrq),0.51
+2024-12-16,UBXG,Operating Cash Flow  (ttm),-1.35M
+2024-12-16,UBXG,Levered Free Cash Flow  (ttm),-10.59M
+2024-12-16,UBXG,Beta (5Y Monthly),--
+2024-12-16,UBXG,52 Week Range3,-19.41%
+2024-12-16,UBXG,S&P 500 52-Week Change3,27.65%
+2024-12-16,UBXG,52 Week High3,35.4400
+2024-12-16,UBXG,52 Week Low3,0.2560
+2024-12-16,UBXG,50-Day Moving Average3,1.1752
+2024-12-16,UBXG,200-Day Moving Average3,5.1293
+2024-12-16,UBXG,Avg Vol (3 month)3,692.62k
+2024-12-16,UBXG,Avg Vol (10 day)3,195.56k
+2024-12-16,UBXG,Shares Outstanding5,3.28M
+2024-12-16,UBXG,Implied Shares Outstanding6,29.7M
+2024-12-16,UBXG,Float8,16.98M
+2024-12-16,UBXG,% Held by Insiders1,42.84%
+2024-12-16,UBXG,% Held by Institutions1,0.27%
+2024-12-16,UBXG,Shares Short (11/29/2024)4,86.26k
+2024-12-16,UBXG,Short Ratio (11/29/2024)4,1.61
+2024-12-16,UBXG,Short % of Float (11/29/2024)4,8.13%
+2024-12-16,UBXG,Short % of Shares Outstanding (11/29/2024)4,4.65%
+2024-12-16,UBXG,Shares Short (prior month 10/31/2024)4,41.36k
+2024-12-16,UBXG,Forward Annual Dividend Rate4,--
+2024-12-16,UBXG,Forward Annual Dividend Yield4,--
+2024-12-16,UBXG,Trailing Annual Dividend Rate3,0.00
+2024-12-16,UBXG,Trailing Annual Dividend Yield3,0.00%
+2024-12-16,UBXG,5 Year Average Dividend Yield4,--
+2024-12-16,UBXG,Payout Ratio4,0.00%
+2024-12-16,UBXG,Dividend Date3,--
+2024-12-16,UBXG,Ex-Dividend Date4,--
+2024-12-16,UBXG,Last Split Factor2,--
+2024-12-16,UBXG,Last Split Date3,--
+2024-12-16,LAES,Market Cap,59.41M
+2024-12-16,LAES,Enterprise Value,60.19M
+2024-12-16,LAES,Trailing P/E,--
+2024-12-16,LAES,Forward P/E,--
+2024-12-16,LAES,PEG Ratio (5yr expected),--
+2024-12-16,LAES,Price/Sales,1.27
+2024-12-16,LAES,Price/Book,11.37
+2024-12-16,LAES,Enterprise Value/Revenue,2.99
+2024-12-16,LAES,Enterprise Value/EBITDA,--
+2024-12-16,LAES,Fiscal Year Ends,12/31/2023
+2024-12-16,LAES,Most Recent Quarter  (mrq),6/30/2024
+2024-12-16,LAES,Profit Margin,-65.31%
+2024-12-16,LAES,Operating Margin  (ttm),-184.13%
+2024-12-16,LAES,Return on Assets  (ttm),-28.36%
+2024-12-16,LAES,Return on Equity  (ttm),-574.41%
+2024-12-16,LAES,Revenue  (ttm),20.14M
+2024-12-16,LAES,Revenue Per Share  (ttm),0.91
+2024-12-16,LAES,Quarterly Revenue Growth  (yoy),-67.30%
+2024-12-16,LAES,Gross Profit  (ttm),--
+2024-12-16,LAES,EBITDA,-12.18M
+2024-12-16,LAES,Net Income Avi to Common  (ttm),-13.15M
+2024-12-16,LAES,Diluted EPS  (ttm),-0.5200
+2024-12-16,LAES,Quarterly Earnings Growth  (yoy),--
+2024-12-16,LAES,Total Cash  (mrq),18.86M
+2024-12-16,LAES,Total Cash Per Share  (mrq),0.62
+2024-12-16,LAES,Total Debt  (mrq),19.63M
+2024-12-16,LAES,Total Debt/Equity  (mrq),375.84%
+2024-12-16,LAES,Current Ratio  (mrq),3.58
+2024-12-16,LAES,Book Value Per Share  (mrq),0.17
+2024-12-16,LAES,Operating Cash Flow  (ttm),-6.93M
+2024-12-16,LAES,Levered Free Cash Flow  (ttm),-4.46M
+2024-12-16,LAES,Beta (5Y Monthly),--
+2024-12-16,LAES,52 Week Range3,66.67%
+2024-12-16,LAES,S&P 500 52-Week Change3,27.65%
+2024-12-16,LAES,52 Week High3,3.9500
+2024-12-16,LAES,52 Week Low3,0.2900
+2024-12-16,LAES,50-Day Moving Average3,0.4878
+2024-12-16,LAES,200-Day Moving Average3,0.8555
+2024-12-16,LAES,Avg Vol (3 month)3,10.8M
+2024-12-16,LAES,Avg Vol (10 day)3,60.8M
+2024-12-16,LAES,Shares Outstanding5,32.45M
+2024-12-16,LAES,Implied Shares Outstanding6,33.95M
+2024-12-16,LAES,Float8,16.64M
+2024-12-16,LAES,% Held by Insiders1,21.35%
+2024-12-16,LAES,% Held by Institutions1,0.13%
+2024-12-16,LAES,Shares Short (11/29/2024)4,2.37M
+2024-12-16,LAES,Short Ratio (11/29/2024)4,0.92
+2024-12-16,LAES,Short % of Float (11/29/2024)4,8.94%
+2024-12-16,LAES,Short % of Shares Outstanding (11/29/2024)4,6.97%
+2024-12-16,LAES,Shares Short (prior month 10/31/2024)4,1.81M
+2024-12-16,LAES,Forward Annual Dividend Rate4,--
+2024-12-16,LAES,Forward Annual Dividend Yield4,--
+2024-12-16,LAES,Trailing Annual Dividend Rate3,0.00
+2024-12-16,LAES,Trailing Annual Dividend Yield3,0.00%
+2024-12-16,LAES,5 Year Average Dividend Yield4,--
+2024-12-16,LAES,Payout Ratio4,0.00%
+2024-12-16,LAES,Dividend Date3,--
+2024-12-16,LAES,Ex-Dividend Date4,--
+2024-12-16,LAES,Last Split Factor2,--
+2024-12-16,LAES,Last Split Date3,--
+2024-12-16,SIDU,Fiscal Year Ends,12/31/2023
+2024-12-16,SIDU,Most Recent Quarter  (mrq),6/30/2024
+2024-12-16,SIDU,Profit Margin,0.00%
+2024-12-16,SIDU,Operating Margin  (ttm),-420.23%
+2024-12-16,SIDU,Return on Assets  (ttm),-41.79%
+2024-12-16,SIDU,Return on Equity  (ttm),-119.64%
+2024-12-16,SIDU,Revenue  (ttm),4.31M
+2024-12-16,SIDU,Revenue Per Share  (ttm),2.01
+2024-12-16,SIDU,Quarterly Revenue Growth  (yoy),-32.30%
+2024-12-16,SIDU,Gross Profit  (ttm),--
+2024-12-16,SIDU,EBITDA,-13.07M
+2024-12-16,SIDU,Net Income Avi to Common  (ttm),-15.58M
+2024-12-16,SIDU,Diluted EPS  (ttm),-5.0700
+2024-12-16,SIDU,Quarterly Earnings Growth  (yoy),--
+2024-12-16,SIDU,Total Cash  (mrq),1.44M
+2024-12-16,SIDU,Total Cash Per Share  (mrq),0.34
+2024-12-16,SIDU,Total Debt  (mrq),3.17M
+2024-12-16,SIDU,Total Debt/Equity  (mrq),24.21%
+2024-12-16,SIDU,Current Ratio  (mrq),0.95
+2024-12-16,SIDU,Book Value Per Share  (mrq),6.58
+2024-12-16,SIDU,Operating Cash Flow  (ttm),-13.18M
+2024-12-16,SIDU,Levered Free Cash Flow  (ttm),-16.78M
+2024-12-16,SIDU,Beta (5Y Monthly),-0.65
+2024-12-16,SIDU,52 Week Range3,-64.25%
+2024-12-16,SIDU,S&P 500 52-Week Change3,27.65%
+2024-12-16,SIDU,52 Week High3,18.8500
+2024-12-16,SIDU,52 Week Low3,1.1500
+2024-12-16,SIDU,50-Day Moving Average3,1.9830
+2024-12-16,SIDU,200-Day Moving Average3,2.7984
+2024-12-16,SIDU,Avg Vol (3 month)3,612.4k
+2024-12-16,SIDU,Avg Vol (10 day)3,822.07k
+2024-12-16,SIDU,Shares Outstanding5,8.6M
+2024-12-16,SIDU,Implied Shares Outstanding6,8.7M
+2024-12-16,SIDU,Float8,3.97M
+2024-12-16,SIDU,% Held by Insiders1,0.00%
+2024-12-16,SIDU,% Held by Institutions1,3.90%
+2024-12-16,SIDU,Shares Short (10/31/2024)4,504.98k
+2024-12-16,SIDU,Short Ratio (10/31/2024)4,1.5
+2024-12-16,SIDU,Short % of Float (10/31/2024)4,12.37%
+2024-12-16,SIDU,Short % of Shares Outstanding (10/31/2024)4,12.08%
+2024-12-16,SIDU,Shares Short (prior month 9/30/2024)4,192.82k
+2024-12-16,SIDU,Forward Annual Dividend Rate4,--
+2024-12-16,SIDU,Forward Annual Dividend Yield4,--
+2024-12-16,SIDU,Trailing Annual Dividend Rate3,0.00
+2024-12-16,SIDU,Trailing Annual Dividend Yield3,0.00%
+2024-12-16,SIDU,5 Year Average Dividend Yield4,--
+2024-12-16,SIDU,Payout Ratio4,0.00%
+2024-12-16,SIDU,Dividend Date3,--
+2024-12-16,SIDU,Ex-Dividend Date4,--
+2024-12-16,SIDU,Last Split Factor2,1:100
+2024-12-16,SIDU,Last Split Date3,12/20/2023
+2024-12-16,TNXP,Fiscal Year Ends,12/31/2023
+2024-12-16,TNXP,Most Recent Quarter  (mrq),6/30/2024
+2024-12-16,TNXP,Profit Margin,0.00%
+2024-12-16,TNXP,Operating Margin  (ttm),-831.48%
+2024-12-16,TNXP,Return on Assets  (ttm),-51.72%
+2024-12-16,TNXP,Return on Equity  (ttm),-163.24%
+2024-12-16,TNXP,Revenue  (ttm),12.46M
+2024-12-16,TNXP,Revenue Per Share  (ttm),6.35
+2024-12-16,TNXP,Quarterly Revenue Growth  (yoy),--
+2024-12-16,TNXP,Gross Profit  (ttm),--
+2024-12-16,TNXP,EBITDA,-90.77M
+2024-12-16,TNXP,Net Income Avi to Common  (ttm),-149.01M
+2024-12-16,TNXP,Diluted EPS  (ttm),-80.3900
+2024-12-16,TNXP,Quarterly Earnings Growth  (yoy),--
+2024-12-16,TNXP,Total Cash  (mrq),4.16M
+2024-12-16,TNXP,Total Cash Per Share  (mrq),0.19
+2024-12-16,TNXP,Total Debt  (mrq),9.26M
+2024-12-16,TNXP,Total Debt/Equity  (mrq),21.99%
+2024-12-16,TNXP,Current Ratio  (mrq),1.15
+2024-12-16,TNXP,Book Value Per Share  (mrq),57.61
+2024-12-16,TNXP,Operating Cash Flow  (ttm),-73.22M
+2024-12-16,TNXP,Levered Free Cash Flow  (ttm),-44.01M
+2024-12-16,TNXP,Beta (5Y Monthly),2.08
+2024-12-16,TNXP,52 Week Range3,-98.88%
+2024-12-16,TNXP,S&P 500 52-Week Change3,27.65%
+2024-12-16,TNXP,52 Week High3,22.0800
+2024-12-16,TNXP,52 Week Low3,0.1200
+2024-12-16,TNXP,50-Day Moving Average3,0.1662
+2024-12-16,TNXP,200-Day Moving Average3,2.6895
+2024-12-16,TNXP,Avg Vol (3 month)3,36.78M
+2024-12-16,TNXP,Avg Vol (10 day)3,36.96M
+2024-12-16,TNXP,Shares Outstanding5,186.89M
+2024-12-16,TNXP,Implied Shares Outstanding6,186.89M
+2024-12-16,TNXP,Float8,22M
+2024-12-16,TNXP,% Held by Insiders1,0.17%
+2024-12-16,TNXP,% Held by Institutions1,0.23%
+2024-12-16,TNXP,Shares Short (10/31/2024)4,7.67M
+2024-12-16,TNXP,Short Ratio (10/31/2024)4,0.35
+2024-12-16,TNXP,Short % of Float (10/31/2024)4,5.48%
+2024-12-16,TNXP,Short % of Shares Outstanding (10/31/2024)4,5.48%
+2024-12-16,TNXP,Shares Short (prior month 9/30/2024)4,8.29M
+2024-12-16,TNXP,Forward Annual Dividend Rate4,--
+2024-12-16,TNXP,Forward Annual Dividend Yield4,--
+2024-12-16,TNXP,Trailing Annual Dividend Rate3,0.00
+2024-12-16,TNXP,Trailing Annual Dividend Yield3,0.00%
+2024-12-16,TNXP,5 Year Average Dividend Yield4,--
+2024-12-16,TNXP,Payout Ratio4,0.00%
+2024-12-16,TNXP,Dividend Date3,11/1/2019
+2024-12-16,TNXP,Ex-Dividend Date4,--
+2024-12-16,TNXP,Last Split Factor2,1:32
+2024-12-16,TNXP,Last Split Date3,6/10/2024
+2024-12-16,WKEY,Market Cap,56.79M
+2024-12-16,WKEY,Enterprise Value,47.65M
+2024-12-16,WKEY,Trailing P/E,--
+2024-12-16,WKEY,Forward P/E,--
+2024-12-16,WKEY,PEG Ratio (5yr expected),--
+2024-12-16,WKEY,Price/Sales,3.66
+2024-12-16,WKEY,Price/Book,2.08
+2024-12-16,WKEY,Enterprise Value/Revenue,2.27
+2024-12-16,WKEY,Enterprise Value/EBITDA,-0.90
+2024-12-16,WKEY,Fiscal Year Ends,12/31/2023
+2024-12-16,WKEY,Most Recent Quarter  (mrq),6/30/2024
+2024-12-16,WKEY,Profit Margin,-85.12%
+2024-12-16,WKEY,Operating Margin  (ttm),-272.79%
+2024-12-16,WKEY,Return on Assets  (ttm),-27.28%
+2024-12-16,WKEY,Return on Equity  (ttm),-121.16%
+2024-12-16,WKEY,Revenue  (ttm),20.98M
+2024-12-16,WKEY,Revenue Per Share  (ttm),3.00
+2024-12-16,WKEY,Quarterly Revenue Growth  (yoy),-65.80%
+2024-12-16,WKEY,Gross Profit  (ttm),--
+2024-12-16,WKEY,EBITDA,-20.68M
+2024-12-16,WKEY,Net Income Avi to Common  (ttm),-17.86M
+2024-12-16,WKEY,Diluted EPS  (ttm),-2.52
+2024-12-16,WKEY,Quarterly Earnings Growth  (yoy),--
+2024-12-16,WKEY,Total Cash  (mrq),26.3M
+2024-12-16,WKEY,Total Cash Per Share  (mrq),7.62
+2024-12-16,WKEY,Total Debt  (mrq),17.15M
+2024-12-16,WKEY,Total Debt/Equity  (mrq),95.23%
+2024-12-16,WKEY,Current Ratio  (mrq),1.96
+2024-12-16,WKEY,Book Value Per Share  (mrq),10.68
+2024-12-16,WKEY,Operating Cash Flow  (ttm),-14.05M
+2024-12-16,WKEY,Levered Free Cash Flow  (ttm),-9.59M
+2024-12-16,WKEY,Beta (5Y Monthly),1.85
+2024-12-16,WKEY,52 Week Range3,350.57%
+2024-12-16,WKEY,S&P 500 52-Week Change3,27.65%
+2024-12-16,WKEY,52 Week High3,8.38
+2024-12-16,WKEY,52 Week Low3,1.56
+2024-12-16,WKEY,50-Day Moving Average3,2.20
+2024-12-16,WKEY,200-Day Moving Average3,2.19
+2024-12-16,WKEY,Avg Vol (3 month)3,1.39M
+2024-12-16,WKEY,Avg Vol (10 day)3,8.57M
+2024-12-16,WKEY,Shares Outstanding5,6.59M
+2024-12-16,WKEY,Implied Shares Outstanding6,40.02M
+2024-12-16,WKEY,Float8,3.2M
+2024-12-16,WKEY,% Held by Insiders1,0.00%
+2024-12-16,WKEY,% Held by Institutions1,0.89%
+2024-12-16,WKEY,Shares Short (11/29/2024)4,62.44k
+2024-12-16,WKEY,Short Ratio (11/29/2024)4,1.06
+2024-12-16,WKEY,Short % of Float (11/29/2024)4,--
+2024-12-16,WKEY,Short % of Shares Outstanding (11/29/2024)4,0.64%
+2024-12-16,WKEY,Shares Short (prior month 10/31/2024)4,14.79k
+2024-12-16,WKEY,Forward Annual Dividend Rate4,--
+2024-12-16,WKEY,Forward Annual Dividend Yield4,--
+2024-12-16,WKEY,Trailing Annual Dividend Rate3,0.00
+2024-12-16,WKEY,Trailing Annual Dividend Yield3,0.00%
+2024-12-16,WKEY,5 Year Average Dividend Yield4,--
+2024-12-16,WKEY,Payout Ratio4,0.00%
+2024-12-16,WKEY,Dividend Date3,11/18/2019
+2024-12-16,WKEY,Ex-Dividend Date4,--
+2024-12-16,WKEY,Last Split Factor2,4:10
+2024-12-16,WKEY,Last Split Date3,7/5/2023
